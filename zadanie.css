@@ -1,0 +1,223 @@
+body{
+    width: 100%;
+    height: 1500px;
+    font-family: sans-serif;
+    margin: 0;
+}
+.image {
+    position: relative ;
+    border:,solid;
+    border-radius:10px;
+     height: 400px;
+     overflow: hidden;
+     margin: auto;
+     width: 80%;
+     text-align:center;
+     background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+}
+
+     .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color:white;
+        font-size: 23px;
+        width: 820px;
+        
+    }
+    .button {
+        position: relative;
+        background-color: #3030a38c ;
+        border: solid 0px;
+        border-radius:4px;
+        font-size: 14px;
+        color: #FFFFFF;
+        padding: 10px;
+        width: 150px;
+        text-align: center;
+        cursor: pointer;
+    }
+    .find {
+    margin-left: 150px;
+    font-size: 26px;
+    color: gray;
+    float: left;
+    }
+    .find b{
+        color: aqua;
+        
+        }
+    .view {
+            margin-right: 150px;
+            margin-top: 10px;
+            font-size: 20px;
+            color: grey;
+            float: right;
+            }
+
+    .hyd1{
+        clear: both;
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 160px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+    }
+    .hyd2{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+    }
+    .hyd3{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+    }
+    .hyd4{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+    }
+    .hyd5{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+    }
+    .hyd6{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+    }
+
+    .hyd7{
+        clear: both;
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 160px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+        margin-top: 30px;
+    }
+    .hyd8{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+        margin-top: 30px;
+    }
+    .hyd9{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+        margin-top: 30px;
+    }
+    .hyd10{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+        margin-top: 30px;
+    }
+    .hyd11{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+        margin-top: 30px;
+    }
+    .hyd12{
+        float: left;
+        width: 153px;
+        padding: 5px;
+        border: solid, transparent;
+        border-radius:7px;
+        margin-left: 30px;
+        height: 280px;
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        text-align: center;
+        font-size: 17px;
+        color: grey;
+        margin-top: 30px;
+    }
