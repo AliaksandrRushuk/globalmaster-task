@@ -1,0 +1,84 @@
+body{
+    width: 100vw;
+    height: 1500px;
+    font-family: sans-serif;
+    margin: 0;
+}
+.image {
+    position: relative ;
+    min-width: 80%;
+    border-radius:10px;
+     min-height: 23%;
+     overflow: hidden;
+     margin: auto;
+     width: 80%;
+     text-align:center;
+     background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+}
+
+     .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color:white;
+        font-size: 1.5vw;
+        min-width: 80%;
+        
+    }
+    .button {
+        position: relative;
+        background-color: #3030a38c ;
+        border: solid 0px;
+        border-radius:4px;
+        font-size: 1vw;
+        color: #FFFFFF;
+        padding: 10px;
+        width: 15%;
+        text-align: center;
+        cursor: pointer;
+    }
+    .find {
+    margin-left: 15%;
+    font-size: 1.7vw;
+    color: gray;
+    float: left;
+    padding: 0px;
+    }
+    .find b{
+        color: aqua;
+        
+        }
+    .view {
+         margin-right: 15%;
+         margin-top: 1%;
+         font-size: 1vw;
+        color: grey;
+        float: right;
+        padding: 0px;
+            }
+    section{
+    display: flex;
+    margin-top: 0.46vw;
+    margin-left: 11.5%;
+    margin-right: 11.5%;
+    }
+
+    article{
+    margin: 10px;
+    margin-top: 10px;
+    flex: 20%;
+    border: solid, transparent;
+    border-radius:7px;
+    text-align: center;
+    font-size: 1vw;
+    box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+    color: grey;
+    max-height: 280px;
+    margin-left: 0.3%;
+    min-width: 10vw;
+    }   
+    img{
+    max-width: 100%;
+    }     
+    
